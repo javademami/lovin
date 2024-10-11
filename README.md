@@ -16,7 +16,7 @@ Here is a detailed description for your **GitHub README** file for the app, inco
 **Lovin'** is a modern dating app designed to help users easily connect with new people and build meaningful relationships. With a simple interface and various features, Lovin' enhances the online dating experience, making it more intuitive, enjoyable, and safe. The app lets you browse, chat, and match with users based on your interests, location, and preferences.
 
 ### Download the APK:
-**[Click here to download the demo APK](https://github.com/javademami/lovin/blob/main/assets/apk/application-44e4af65-0f2b-4c27-a7ba-c1ca154dddbf.apk)**
+**[Click here to download the demo APK](https://expo.dev/accounts/javademami/projects/lovin/builds/44e4af65-0f2b-4c27-a7ba-c1ca154dddbf)**
 
 ## Key Features
 - **User Profiles**: Create personalized profiles with pictures, bios, and preferences.
