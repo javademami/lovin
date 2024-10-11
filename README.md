@@ -1,6 +1,3 @@
-Here is a detailed description for your **GitHub README** file for the app, incorporating the provided images and APK demo link.
-
----
 
 # Lovin' - Your Friendly Dating App
 
@@ -13,7 +10,7 @@ Here is a detailed description for your **GitHub README** file for the app, inco
 ![Screen 7](https://github.com/javademami/lovin/blob/main/assets/screens/screen7.jpg)
 
 ## Introduction
-**Lovin'** is a modern dating app designed to help users easily connect with new people and build meaningful relationships. With a simple interface and various features, Lovin' enhances the online dating experience, making it more intuitive, enjoyable, and safe. The app lets you browse, chat, and match with users based on your interests, location, and preferences.
+**Lovin'** is a modern React Native(Expo) UI dating app designed to help users easily connect with new people and build meaningful relationships. With a simple interface and various features, Lovin' enhances the online dating experience, making it more intuitive, enjoyable, and safe. The app lets you browse, chat, and match with users based on your interests, location, and preferences.
 
 ### Download the APK:
 **[Click here to download the demo APK](https://expo.dev/accounts/javademami/projects/lovin/builds/44e4af65-0f2b-4c27-a7ba-c1ca154dddbf)**
@@ -56,7 +53,7 @@ Follow these steps to clone and run the app locally:
    ```
 
 ## Future Updates
-We are continually working on improving Lovin' and plan to release the following features soon:
+I am continually working on improving Lovin' and plan to release the following features soon:
 - In-app video calls
 - Voice messaging
 - Advanced filters for matching
@@ -64,11 +61,11 @@ We are continually working on improving Lovin' and plan to release the following
 
 ## Demo APK
 Test the app on your device by downloading the APK:
-**[Demo APK](https://github.com/javademami/lovin/blob/main/assets/apk/application-44e4af65-0f2b-4c27-a7ba-c1ca154dddbf.apk)**
+**[Demo APK](https://expo.dev/accounts/javademami/projects/lovin/builds/44e4af65-0f2b-4c27-a7ba-c1ca154dddbf)**
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-This README covers the app description, key features, setup instructions, and demo APK for users interested in testing the app. You can now place it on your GitHub repository!
+
